@@ -1,10 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a junior back-end engineer.
+## I'm a junior back-end engineer.
 
-### I've been using these lately.
+### I'm using these lately. 
 
-<img src="https://cdn.svgporn.com/logos/gopher.svg" width="50px"><img src="https://cdn.svgporn.com/logos/javascript.svg" width="50px"><img src="https://cdn.svgporn.com/logos/vue.svg" width="50px"><img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="50px">
+<img src="https://cdn.svgporn.com/logos/gopher.svg" width="50px">  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="50px">  <img src="https://cdn.svgporn.com/logos/vue.svg" width="50px">  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="50px">
+
+
+
 
 <!--
 **uta-mori/uta-mori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
