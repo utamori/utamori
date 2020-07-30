@@ -1,4 +1,4 @@
-![uta-mori's github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&show_icons=true&theme=vue)
+!['s github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&show_icons=true&theme=vue)
 
 ---
 
