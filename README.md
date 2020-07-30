@@ -1,7 +1,9 @@
-[![uta-mori's github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uta-mori)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=uta-mori&count_private=true&hide=stars&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uta-mori" />
+</a>
 
 
 ## Hi there 👋
