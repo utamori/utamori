@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=uta-mori?count_private=true&hide=stars&show_icons=true&theme=vue)
 
 ---
 
