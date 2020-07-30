@@ -1,4 +1,4 @@
-[![uta-mori's github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![uta-mori's github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hi there 👋
