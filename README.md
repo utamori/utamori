@@ -1,4 +1,4 @@
-** Only Count OSS activity** <br>
+**Only Count OSS activity** <br>
 ![](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&show_icons=true&theme=vue)
 
 ---
