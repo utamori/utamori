@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&show_icons=true&theme=radical)
+![uta-mori's github stats](https://github-readme-stats.vercel.app/api?username=uta-mori&hide=stars&show_icons=true&theme=vue)
 
 ---
 
