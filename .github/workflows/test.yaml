@@ -1,0 +1,26 @@
+name: test
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: setup env variables
+        run: |
+          echo "A=aaaa" >> $GITHUB_ENV
+          echo "B=BBBB" >> $GITHUB_ENV
+          echo "B=CCC" >> $GITHUB_ENV
+
+          
+
+      - name: echo
+        run: |-
+          echo ${{ env.A }}
+          echo ${{ env.B }}
